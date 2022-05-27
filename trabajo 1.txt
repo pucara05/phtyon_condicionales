@@ -1,0 +1,11 @@
+1. crear nuevo archivo
+2. llamar el archivo  como variables
+3. declarar una variable que se llame texto, otra que se llame num y otra que se llame definitiva
+
+
+texto=uis
+numero=30
+definitiva=4.5
+
+
+4. cada una de las variables las van a convertir a los otros dos tipos de datos menos la variable texto
